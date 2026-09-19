@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "118c9370a6f2b2d4572f2b07",
+  "owner": "udpnwkmrjse",
+  "repo": "page-d5c38fe9532ea83968487537",
+  "title": "clash verge机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d5c38fe9532ea83968487537",
+      "a": "搬瓦工(JustMySocks)",
+      "b": "clash verge机场推荐",
+      "entity": "搬瓦工(JustMySocks)",
+      "brand": "clash verge机场推荐",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c46c0c2b1b537465d70e890878191493f58b4266cacdcba3f892b69086373d53",
+      "content": {
+        "primary_entity": "搬瓦工(JustMySocks)",
+        "keyword1": "搬瓦工(JustMySocks)",
+        "keyword2": "clash verge机场推荐",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，再导入订阅配置。",
+          "AI_CLIENTS_TITLE": "按设备匹配客户端",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档完成订阅导入，即可开始使用。",
+          "AI_CLOSING_TITLE": "选对版本，连上就走",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档订阅方案，月付与年付均可选择，年付价格更优惠。基础版适合手机与电脑轻度使用，每月100GB流量、3台设备；旗舰版每月300GB流量、5台设备，带IPLC专线优化，适合游戏与高清流媒体；团队版每月1000GB流量、20台设备，面向多人协作场景。按设备系统选择Clash Verge等客户端，导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从套餐匹配、设备数量到订阅周期，三点快速理清。",
+          "AI_FEATURES_TITLE": "套餐与设备搭配要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量、3台设备，适合手机与个人电脑日常使用；旗舰版提升至300GB和5台设备；团队版满足20台设备与1000GB月流量。",
+          "AI_FEATURE_TEXT_2": "按设备系统选择客户端，桌面端可选用Clash Verge等工具，移动端选对应客户端，导入订阅后即可使用。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付价格更省：基础版¥150/年、旗舰版¥350/年、团队版¥850/年，长期使用建议按年付。",
+          "AI_FEATURE_TITLE_1": "按用量挑版本",
+          "AI_FEATURE_TITLE_2": "按系统选客户端",
+          "AI_FEATURE_TITLE_3": "按月付或年付",
+          "AI_GUIDE_INTRO": "选套餐、看适配、配订阅，三步走完。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "搬瓦工(JustMySocks)提供多档海外加速订阅，覆盖个人到团队场景。基础版、旗舰版、团队版按流量与设备数区分，月付年付灵活选择，按设备系统挑选客户端后导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖1至20台设备",
+          "AI_HIGHLIGHT_2": "年付更省，最低¥150/年",
+          "AI_HIGHLIGHT_3": "旗舰版带IPLC专线优化",
+          "AI_PLANS_INTRO": "基础版¥15/月、旗舰版¥35/月、团队版¥85/月；年付分别¥150、¥350、¥850。流量与设备数随版本递增，按需选择。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数，在基础版、旗舰版、团队版中选择合适的版本，并决定月付或年付。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端支持情况，桌面端可参考Clash Verge等工具的配置说明，移动端选择对应客户端。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "获取订阅链接后，按客户端文档导入配置，完成节点选择与连接设置。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "搬瓦工(JustMySocks)多档订阅",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。设备数按同时连接计算，手机、平板、电脑共享名额。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。若多设备追剧或下载较多，建议从旗舰版起步。",
+          "AI_FAQ_ANSWER_3": "可以。基础版提供普通线路节点池，旗舰版增加 IPLC 专线并优化游戏延迟，团队版为 VIP 高带宽节点。",
+          "AI_FAQ_ANSWER_4": "月付适合短期使用，年付更划算。基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元。",
+          "AI_FAQ_ANSWER_5": "按设备系统安装对应客户端后，复制订阅链接粘贴导入，选择节点连接即可。不同系统步骤略有差异，可参考客户端自带说明。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个订阅可以几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "各版本流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "不同版本的线路有区别吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选？",
+          "AI_FAQ_QUESTION_5": "订阅导入后如何连接使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1b39647fb21afa241fe30608ae41b0eeca5f7598cc021b9fccb346ba353727ff",
+    "sitemap.xml": "d736c76ef5ecc5e44382ca4eaba90c08c6103ca21314aa69720cc3a70e8127d6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "1f47268e5212bf4637ced4e6059c00381c282e2a5ed35cc67475dcdb959cce73"
+}
